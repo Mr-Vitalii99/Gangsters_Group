@@ -1142,7 +1142,7 @@ a {
     height: calc(calc(1vw + 1vh) * 36);
     bottom: -5%;
     right: -10%;
-    background: url("../../images/batman.png");
+    background: url("../../../images/batman.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2083,7 +2083,7 @@ a {
 }
 
 .contacts-section {
-    background-color: rgb(3, 3, 3);
+    background-color: #000;
     background-image: url(../../images/cyty-bg.jpg);
     background-repeat: no-repeat
 }
